@@ -18,7 +18,7 @@
     
     ISP : 인터넷 상용 서비스 사업을 하고있는 통신회사
     
-    ![Lan](/img/Lan.png)
+    <img src="img/Lan.png" width="70%" height="70%">
     
 
 ## 참고 지식
@@ -29,7 +29,7 @@
 
 즉, 서버는 클라이언트가 요청하는 정보를 서버가 받아서 처리하고 응답한다.
 
-![server](/img/server.png)
+<img src="img/server.png" width="70%" height="70%">
 
 ## 가정에서 하는 랜 구성
 
@@ -63,13 +63,13 @@ DMZ 네트워크 영역이 있다.
     
     랙안에는 랙에 설치하기 적합한 형태와 크기를 가진 여러개의 **서버와 라우터와 스위치**를 설치
     
-    ![랙](/img/랙.png)
+    <img src="img/랙.png" width="20%" height="20%">
     
 2. 데이터 센터에 서버를 둠 → 온프레미스 on-premise
 3. 클라우드에 둠
 
 네트워크 사용 방법
 
-![네트워크사용](/img/네트워크사용.png)
+<img src="img/server.png" width="70%" height="70%">
 
 각 서버나 컴퓨터는 스위치나 무선랜 기능을 사용하여 사내 랜에 접속한다.
